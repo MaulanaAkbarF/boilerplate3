@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "855726156368",
+    "project_id": "boilerplate-e8842",
+    "storage_bucket": "boilerplate-e8842.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855726156368:android:085a4cdb14e616ff163f55",
+        "android_client_info": {
+          "package_name": "com.improved.boilerplate_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855726156368-b7as51k7i8eaviu2akjr8nmldlnqca0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.improved.boilerplate_2",
+            "certificate_hash": "05bccb479c8ce3cc28db0a5083bb9ffee3f26793"
+          }
+        },
+        {
+          "client_id": "855726156368-qegtn4406mdiqmbl8si14f87gq2754br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9IQSXHSZ5LtDMcaI-1PCXEF5wINiAJvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855726156368-qegtn4406mdiqmbl8si14f87gq2754br.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855726156368-1a8fgb9ohejmpv2u6hnk5m6egc6rttim.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.improved.boilerplate2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855726156368:android:ce56862e6f531e58163f55",
+        "android_client_info": {
+          "package_name": "com.maulana.boilerplate_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855726156368-1mufe0ujvvorinb2vc74viidrt5r47gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maulana.boilerplate_3",
+            "certificate_hash": "05bccb479c8ce3cc28db0a5083bb9ffee3f26793"
+          }
+        },
+        {
+          "client_id": "855726156368-qegtn4406mdiqmbl8si14f87gq2754br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9IQSXHSZ5LtDMcaI-1PCXEF5wINiAJvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855726156368-qegtn4406mdiqmbl8si14f87gq2754br.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855726156368-1a8fgb9ohejmpv2u6hnk5m6egc6rttim.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.improved.boilerplate2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855726156368:android:7e04399dcf4643ac163f55",
+        "android_client_info": {
+          "package_name": "com.maulana.boilerplate_3_firebaseconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855726156368-qegtn4406mdiqmbl8si14f87gq2754br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9IQSXHSZ5LtDMcaI-1PCXEF5wINiAJvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855726156368-qegtn4406mdiqmbl8si14f87gq2754br.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855726156368-1a8fgb9ohejmpv2u6hnk5m6egc6rttim.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.improved.boilerplate2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

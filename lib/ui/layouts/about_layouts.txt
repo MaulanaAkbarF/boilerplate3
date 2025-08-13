@@ -1,0 +1,11 @@
+Direktori Layout adalah direktori yang digunakan untuk mengontrol berbagai macam tampilan UI dan UX pada aplikasi
+Di dalam direktori Layout, terdapat berbagai macam direktori dengan penjelasan sebagai berikut:
+
+- Direktori "_animation_config" adalah direktori untuk menyimpan konfigurasi animasi pada reusable widget atau pada aplikasi.
+- Direktori "global_widgets" adalah direktori yang berisi berbagai macam reusable widget.
+  Reusable Widget adalah sebuah class yang berisi kode UI beserta konfigurasinya, yang nantinya class ini bisa dipanggil pada class lain.
+  Pemanggilan class Reusable Widget bisa dilakukan sebanyak mungkin sesuai dengan kebutuhan.
+  Semisal terdapat class Reusable Widget "button", maka class ini akan berisi tampilan tombol/button kustom dan bisa dimodifikasi sesuai dengan kemauan pengguna/pengembang.
+  Penggunaan Reusable Widget sangat berguna untuk meningkatkan efisiensi kode dan mempercepat dan memudahkan maintenance, dan
+- Direktori "styleconfig" adalah direktori yang digunakan untuk mengatur ukuran teks secara global dan mengatur warna pada tema terang dan gelap.
+
